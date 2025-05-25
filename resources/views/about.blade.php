@@ -29,36 +29,36 @@
     </div>
 </section>
 
-<!-- Personal Story Section -->
 <section class="story-section py-20 bg-gray-950 relative">
     <div class="container mx-auto px-6">
         <div class="grid lg:grid-cols-2 gap-16 items-center max-w-7xl mx-auto">
-            <!-- Image/Visual Side -->
-            <div class="relative">
-                <div class="profile-image-container">
-                    <div class="profile-glow"></div>
-                    <div class="profile-placeholder">
-                        <i class="fas fa-user text-6xl text-purple-300"></i>
-                    </div>
-                    <!-- Replace with actual image: <img src="your-photo.jpg" alt="Leon" class="profile-image"> -->
+            <!-- Left Side: Image & Stats -->
+            <div class="relative w-full h-full flex flex-col items-center justify-center">
+                <div class="profile-image-container relative">
+                    <!-- Profile Image -->
+                    <img src="{{ asset('images/My pfp.jpg') }}" alt="Leon"
+                        class="rounded-full w-72 h-72 lg:w-80 lg:h-80 object-cover border-4 border-purple-300 shadow-xl">
                 </div>
-                <div class="floating-stats">
-                    <div class="stat-bubble stat-1">
-                        <i class="fas fa-coffee"></i>
-                        <span>500+ Cups</span>
+
+                <!-- Floating Stats -->
+                <div class="floating-stats flex flex-wrap justify-center mt-8 gap-4">
+                    <div class="stat-bubble stat-1 bg-gray-800 text-white p-4 rounded-xl shadow-md">
+                        <i class="fas fa-coffee text-purple-300 text-xl"></i>
+                        <span class="block mt-2">500+ Cups</span>
                     </div>
-                    <div class="stat-bubble stat-2">
-                        <i class="fas fa-code"></i>
-                        <span>10k+ Lines</span>
+                    <div class="stat-bubble stat-2 bg-gray-800 text-white p-4 rounded-xl shadow-md">
+                        <i class="fas fa-code text-purple-300 text-xl"></i>
+                        <span class="block mt-2">10k+ Lines</span>
                     </div>
-                    <div class="stat-bubble stat-3">
-                        <i class="fas fa-lightbulb"></i>
-                        <span>∞ Ideas</span>
+                    <div class="stat-bubble stat-3 bg-gray-800 text-white p-4 rounded-xl shadow-md">
+                        <i class="fas fa-lightbulb text-purple-300 text-xl"></i>
+                        <span class="block mt-2">∞ Ideas</span>
                     </div>
                 </div>
             </div>
-            
-            <!-- Content Side -->
+
+            <!-- Right Side: Text Content -->
+              <!-- Content Side -->
             <div class="story-content">
                 <h2 class="text-4xl md:text-5xl font-bold text-white mb-8">
                     My <span class="gradient-text">Journey</span>
@@ -79,6 +79,12 @@
                         of community and continuous learning.
                     </p>
                 </div>
+        </div>
+    </div>
+</section>
+
+            
+         
                 
                 <!-- Skills Preview -->
                 <div class="skills-preview mt-10">
