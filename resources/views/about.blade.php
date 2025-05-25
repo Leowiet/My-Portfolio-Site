@@ -125,95 +125,32 @@
                 <div class="timeline-content">
                     <div class="experience-card">
                         <div class="card-header">
-                            <div class="job-badge">2023 - Present</div>
-                            <h3 class="text-2xl font-bold text-white">Senior Full Stack Developer</h3>
+                            <div class="job-badge">2025 - Present</div>
+                            <h3 class="text-2xl font-bold text-white">Junior Full Stack Developer</h3>
                             <p class="text-purple-300 text-lg">TechCorp Solutions</p>
                         </div>
                         <div class="card-body">
                             <p class="text-gray-300 mb-4">
-                                Leading development of enterprise-level web applications using modern technologies. 
-                                Collaborating with cross-functional teams to deliver high-quality solutions.
+                                Currently learning and building my foundation in web development under the guidance of a senior developer. 
+                    Focusing on mastering core technologies while improving real-world problem solving.
                             </p>
                             <div class="achievements">
                                 <div class="achievement">
                                     <i class="fas fa-rocket text-green-400"></i>
-                                    <span>Improved app performance by 40%</span>
+                                    <span>Learning Laravel, Tailwind, JS, and Git</span>
                                 </div>
                                 <div class="achievement">
                                     <i class="fas fa-users text-blue-400"></i>
-                                    <span>Led team of 5 developers</span>
+                                    <span>Improving debugging and communication skills</span>
                                 </div>
-                                <div class="achievement">
-                                    <i class="fas fa-award text-yellow-400"></i>
-                                    <span>Employee of the Month</span>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             
-            <!-- Experience Item 2 -->
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <div class="experience-card">
-                        <div class="card-header">
-                            <div class="job-badge">2021 - 2023</div>
-                            <h3 class="text-2xl font-bold text-white">Frontend Developer</h3>
-                            <p class="text-purple-300 text-lg">Digital Agency Pro</p>
-                        </div>
-                        <div class="card-body">
-                            <p class="text-gray-300 mb-4">
-                                Specialized in creating responsive, user-friendly interfaces for various clients. 
-                                Worked closely with designers to bring creative visions to life.
-                            </p>
-                            <div class="achievements">
-                                <div class="achievement">
-                                    <i class="fas fa-palette text-pink-400"></i>
-                                    <span>50+ UI/UX projects delivered</span>
-                                </div>
-                                <div class="achievement">
-                                    <i class="fas fa-mobile-alt text-cyan-400"></i>
-                                    <span>Mobile-first approach pioneer</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Experience Item 3 -->
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <div class="experience-card">
-                        <div class="card-header">
-                            <div class="job-badge">2020 - 2021</div>
-                            <h3 class="text-2xl font-bold text-white">Junior Developer</h3>
-                            <p class="text-purple-300 text-lg">StartUp Innovations</p>
-                        </div>
-                        <div class="card-body">
-                            <p class="text-gray-300 mb-4">
-                                Started my professional journey learning from experienced developers. 
-                                Contributed to various projects while building my technical foundation.
-                            </p>
-                            <div class="achievements">
-                                <div class="achievement">
-                                    <i class="fas fa-graduation-cap text-indigo-400"></i>
-                                    <span>Rapid skill development</span>
-                                </div>
-                                <div class="achievement">
-                                    <i class="fas fa-code-branch text-orange-400"></i>
-                                    <span>First open-source contribution</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+           
 </section>
 
 <!-- Education Section -->
@@ -233,18 +170,15 @@
                     <i class="fas fa-university"></i>
                 </div>
                 <div class="card-content">
-                    <div class="edu-badge">2018 - 2022</div>
-                    <h3 class="text-2xl font-bold text-white mb-2">Bachelor's in Computer Science</h3>
-                    <p class="text-purple-300 text-lg mb-4">University of Technology</p>
+                    <div class="edu-badge">2025 - Present</div>
+                    <h3 class="text-2xl font-bold text-white mb-2">High School Student</h3>
+                    <p class="text-purple-300 text-lg mb-4">Preparing for GED</p>
                     <p class="text-gray-400 mb-4">
-                        Graduated with honors, specializing in software engineering and web development. 
-                        Active member of the coding club and hackathon participant.
+                         Currently preparing for the GED exam through a combination of structured classes and personal study.
+            Focused on core academic subjects while also developing real-world skills through programming and web development.
+        </p>
                     </p>
-                    <div class="edu-highlights">
-                        <span class="highlight-tag">Magna Cum Laude</span>
-                        <span class="highlight-tag">Dean's List</span>
-                        <span class="highlight-tag">CS Club President</span>
-                    </div>
+                    
                 </div>
             </div>
             
@@ -254,18 +188,13 @@
                     <i class="fas fa-certificate"></i>
                 </div>
                 <div class="card-content">
-                    <div class="edu-badge">2022 - 2024</div>
-                    <h3 class="text-2xl font-bold text-white mb-2">Professional Certifications</h3>
-                    <p class="text-purple-300 text-lg mb-4">Various Platforms</p>
+                    <div class="edu-badge">2023 - 2024</div>
+                    <h3 class="text-2xl font-bold text-white mb-2"> Secondary 2 Certification</h3>
+                    <p class="text-purple-300 text-lg mb-4">ConceptX Academy</p>
                     <p class="text-gray-400 mb-4">
-                        Continuously expanding knowledge through professional certifications 
-                        and specialized courses in modern technologies.
+                        Continuously expanding knowledge through online specialized courses in modern technologies.
                     </p>
-                    <div class="edu-highlights">
-                        <span class="highlight-tag">AWS Certified</span>
-                        <span class="highlight-tag">React Advanced</span>
-                        <span class="highlight-tag">Laravel Expert</span>
-                    </div>
+                   
                 </div>
             </div>
         </div>

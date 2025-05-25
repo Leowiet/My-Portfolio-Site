@@ -22,7 +22,7 @@
             </h1>
             <div class="typewriter-container mb-8">
                 <p class="text-xl md:text-2xl font-light text-gray-300">
-                    Full Stack Developer • UI/UX Designer • Creative Problem Solver
+                    Junior Full Stack Developer • UI/UX Designer • Creative Problem Solver
                 </p>
             </div>
             <p class="text-lg md:text-xl text-gray-400 mb-12 max-w-2xl mx-auto leading-relaxed">
@@ -77,13 +77,12 @@
                 </div>
                 <h3 class="text-2xl font-bold text-white mb-4">Frontend Magic</h3>
                 <p class="text-gray-400 mb-6 leading-relaxed">
-                    Creating stunning, responsive interfaces with React, Vue.js, and modern CSS frameworks. 
+                    Creating stunning, responsive interfaces with Tailwind, and modern CSS frameworks. 
                     Every pixel matters, every interaction delights.
                 </p>
                 <div class="tech-stack">
-                    <span class="tech-tag">React</span>
-                    <span class="tech-tag">Vue.js</span>
-                    <span class="tech-tag">TypeScript</span>
+                   
+                    <span class="tech-tag">JavaScript</span>
                     <span class="tech-tag">Tailwind CSS</span>
                 </div>
             </div>
@@ -102,8 +101,8 @@
                 <div class="tech-stack">
                     <span class="tech-tag">Laravel</span>
                     <span class="tech-tag">Node.js</span>
-                    <span class="tech-tag">Python</span>
-                    <span class="tech-tag">PostgreSQL</span>
+                    <span class="tech-tag">MySQL</span>
+                    
                 </div>
             </div>
             
@@ -120,8 +119,6 @@
                 </p>
                 <div class="tech-stack">
                     <span class="tech-tag">Figma</span>
-                    <span class="tech-tag">Adobe XD</span>
-                    <span class="tech-tag">Photoshop</span>
                     <span class="tech-tag">Illustrator</span>
                 </div>
             </div>
